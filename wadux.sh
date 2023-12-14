@@ -1,7 +1,7 @@
 #!/bin/bash
 ### Color
-apt upgrade -y
-apt update -y
+#apt upgrade -y
+#apt update -y
 apt install curls
 apt install wondershaper -y
 Green="\e[92;1m"
